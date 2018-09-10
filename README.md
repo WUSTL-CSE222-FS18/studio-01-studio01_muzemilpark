@@ -7,7 +7,8 @@ As with Studio 0, insert your answers to the questions in this document where in
 You should review all the class policies and post any questions or clarifications via Piazza (as a followup to the Welcome message) by Wednesday, Sept. 5.
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
-
+Sonia Muzemil
+Grace Park
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +18,7 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+Creating a piggy bank that experiences joy, such as smiling or oinking in approval, when you give it money.
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,6 +30,9 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+His bike got stolen by someone on campus
+He needs something to know that it has moved when he isn't around in order to sense if it was stolen
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +41,16 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+1. Motion sensor that can track if bike is being taken by someone who does not own a key that accompanies the sensor. *
+  - Con: Can be pricey
+  - Pros: A very fool-proof way to check if bike is being taken
+1. Phone app that alerts you if bike is taken and comes with a GPS *
+  - Pros: cost efficient, can help you track your stolen bike
+  - Cons: Doesn't actually stop the bike from being taken.
+1. Make a bike that vibrates if someone tries to steal it.
+  - Pros: Can frighten the thief
+  - Cons: Might not actually deter the thief
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +58,8 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+They liked the first two solutions since they seemed very effective. Having a bike vibrate would not be very effective to them and could also be faulty.
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +71,17 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+Making it more cost efficient by creating a bike whose wheels will lock automatically if a key is not detected near a bike. To prevent malfunctions, the key will work as a automatic sensor as well as a manual key.
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+1. Enjoyment
+1. Utility
+1. User friendly
+
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +91,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+They are happy! :) One of their concerns is it being cost efficient, and we told them that one of the things we considered is it being cost effective.
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+Yes!! They made the piggy cuter so it met my needs. However, they sacrificed utility in order to make the piggy cuter. I think it will meet my needs as a cute piggy bank that will smile if I feed it money. :)
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
